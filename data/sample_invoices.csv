@@ -1,0 +1,5 @@
+invoice_id,vendor,po_id,invoice_amount,po_amount
+INV-1001,Alpha Supplies,PO-501,12500,12500
+INV-1002,Beta Traders,PO-502,18700,18000
+INV-1003,North Star Ltd,PO-503,9200,9200
+INV-1004,Metro Parts,PO-504,7400,0
