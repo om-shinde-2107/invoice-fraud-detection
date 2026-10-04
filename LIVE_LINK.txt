@@ -1,0 +1,10 @@
+# Live Link
+
+Public live link: Not deployed.
+
+This internship project currently runs locally on your computer using Streamlit. To run it, open PowerShell in this folder and use:
+
+py -m pip install -r requirements.txt
+py -m streamlit run app.py
+
+Streamlit will show a local address (usually http://localhost:8501). That address works on this computer only; it is not a public internet link.
